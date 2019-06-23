@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Learn React",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "text": "Do it really well",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "text": "Find dev job",
+      "isCompleted": false
+    },
+    {
+      "id": 4,
+      "text": "Make breakfast",
+      "isCompleted": true
+    },
+    {
+      "id": "3e03f412-866f-426f-b173-1978b83e0d5b",
+      "text": "Eat diner with breakfast",
+      "isCompleted": true
+    },
+    {
+      "id": "dc3e35c6-8b82-42ea-8c70-560c8cdd487f",
+      "text": "Kebap must go home",
+      "isCompleted": false
+    }
+  ]
+}
